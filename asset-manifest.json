@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Husain/static/css/main.9ba233ac.css",
+    "main.js": "/Portfolio-Husain/static/js/main.7f254839.js",
+    "static/media/weather.png": "/Portfolio-Husain/static/media/weather.cda6bfb549771945fcac.png",
+    "static/media/notes.png": "/Portfolio-Husain/static/media/notes.aee502572586adb0c493.png",
+    "static/media/srms.png": "/Portfolio-Husain/static/media/srms.1f12c0316d15af77e73e.png",
+    "static/media/oqms.png": "/Portfolio-Husain/static/media/oqms.f72fd9996553c2e73698.png",
+    "static/media/todo.png": "/Portfolio-Husain/static/media/todo.4495c71463d860f31b6a.png",
+    "static/media/sparks.png": "/Portfolio-Husain/static/media/sparks.25415e49300434fb2ccc.png",
+    "static/media/gms.png": "/Portfolio-Husain/static/media/gms.23263b8cff90498fa018.png",
+    "static/media/lgm.png": "/Portfolio-Husain/static/media/lgm.5ecbff74c07afb2b99a9.png",
+    "static/media/ims.png": "/Portfolio-Husain/static/media/ims.a56bfa9082c055bd0621.png",
+    "static/media/Resume - Husain Champawala.pdf": "/Portfolio-Husain/static/media/Resume - Husain Champawala.dcbe65dfc949248f880f.pdf",
+    "static/media/husain.jpg": "/Portfolio-Husain/static/media/husain.05dfda0a31e040528533.jpg",
+    "static/media/logo.png": "/Portfolio-Husain/static/media/logo.422d7c99b35b75e5afc6.png",
+    "index.html": "/Portfolio-Husain/index.html",
+    "main.9ba233ac.css.map": "/Portfolio-Husain/static/css/main.9ba233ac.css.map",
+    "main.7f254839.js.map": "/Portfolio-Husain/static/js/main.7f254839.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba233ac.css",
+    "static/js/main.7f254839.js"
+  ]
+}
